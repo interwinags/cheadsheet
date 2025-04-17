@@ -1,0 +1,2 @@
+# cheadsheet
+hoja de trucos
