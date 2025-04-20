@@ -108,10 +108,16 @@ Sintaxis:
 ## **Math**
 2x<sup>2</sup>  
 2x<sub>2</sub>
+$$
+X={-b \pm \sqrt{b^2-4ac} \over 2a}
+$$
 ```
 Sintaxis:
 2x<sup>2</sup>  
 2x<sub>2</sub>   
+$$
+X={-b \pm \sqrt{b^2-4ac} \over 2a}
+$$
 ```
 ## **Tablas**
 |A|B|C|
